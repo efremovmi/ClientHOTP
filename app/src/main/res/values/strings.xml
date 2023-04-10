@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Генератор токенов для сейфа</string>
+    <string name="secret_field_hint">Секрет</string>
+    <string name="seed_field_hint">Зерно</string>
+    <string name="token_output_text_default_view_text">0123456789</string>
+    <string name="token_output_text_label_text">Cгенерированный токен:</string>
+    <string name="generate_new_token_button_text">Сгенерировать токен</string>
+
+    <string name="toast_message_textview">Заполните все поля</string>
+
+
+
+
+
+
+</resources>

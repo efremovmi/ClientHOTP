@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Задаем цвет и толщину линии для креста -->
+    <path
+        android:strokeWidth="4"
+        android:pathData="M7,7 L17,17 M7,17 L17,7"
+        android:strokeColor="#FF0000"
+        android:fillColor="#00000000" />
+</vector>
